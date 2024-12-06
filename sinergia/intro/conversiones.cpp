@@ -7,7 +7,7 @@ int main(){
     //Si no podemos el double no funciona porque no puede dividir a 0.8
     double puntaje = PCorrecta / (double)PTotal * 100;
 
-    std::cout << puntaje << std::endl;
+    std::cout << puntaje << " %" << std::endl;
 
 
 }
