@@ -25,7 +25,7 @@ int main(){
 
    float precio2 = 24.99; 
 
-   // # Chat
+   // # Char
 
    char calificacion = 'A';
 
